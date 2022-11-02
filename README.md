@@ -6,7 +6,7 @@
 $ pip3 install -r ./docs/requirements.txt
 $ wget https://pjreddie.com/media/files/yolov3.weights
 ```
-## Required libraries
+## Required Libraries
 - numpy>=1.16.0
 - pillow==6.2.0
 - scipy==1.1.0
